@@ -14,13 +14,13 @@ module.exports = {
   socialLinks: [
     {
       icon: 'fa-github',
-      name: 'Github',
-      url: 'https://github.com/cozynash',
+      name: 'Instagram',
+      url: 'https://www.instagram.com/cozy.nash',
     },
     {
       icon: 'fa-twitter',
       name: 'Twitter',
-      url: 'https://twitter.com/cozynash',
+      url: 'https://twitter.com/cozy_nash',
     },
     {
       icon: 'fa-facebook',
