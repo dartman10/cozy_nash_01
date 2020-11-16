@@ -24,8 +24,8 @@ module.exports = {
     },
     {
       icon: 'fa-facebook',
-      name: 'Facebook',
-      url: 'https://facebook.com/cozynash',
+      name: 'Soundcloud',
+      url: 'https://soundcloud.com/cozynash',
     },
     {
       icon: 'fa-envelope-o',
