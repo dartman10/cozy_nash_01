@@ -29,8 +29,8 @@ module.exports = {
     },
     {
       icon: 'fa-envelope-o',
-      name: 'Email',
-      url: 'mailto:artist@cozynash.com',
+      name: 'YouTube',
+      url: 'https://youtu.be/aSF4B7K6JSE',
     },
   ],
 };
